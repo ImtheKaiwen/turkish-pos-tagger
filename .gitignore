@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.conllu
+*.h5
+*.pkl
